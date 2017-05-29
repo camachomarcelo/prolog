@@ -1,0 +1,14 @@
+Tarea #1. El Problema de las Familias
+
+Representar una Base de Conocimientos sobre sus propias familias, considerar a lo más 4 generaciones y al menos 30 personas con los siguientes hechos inciales:
+
+hombre(X),
+mujer(X),
+matr(X, Y),
+madre(X, Y),
+Completar la base de conocimiento con al menos 25 reglas de inferencia interesantes.
+
+TRABAJO INDIVIDUAL.
+
+Disponible desde:	martes, 10 de marzo de 2015, 14:55
+Fecha de entrega:	jueves, 12 de marzo de 2015, 23:55
